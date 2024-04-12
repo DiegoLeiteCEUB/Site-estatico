@@ -1,0 +1,55 @@
+html {
+	font-family: Verdana, Geneva, Tahoma, sans-serif; 
+	background-image: linear-gradient( rgb(226, 255, 255), rgb(159, 233, 255), rgb(226, 255, 255));
+}
+
+header {
+	text-shadow: 2px 2px 4px rgba(58, 58, 58, 0.5);
+	text-align: center;
+}
+
+#corpo {
+	padding-top: 1%;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: justify;
+	text-shadow: 2px 2px 4px rgba(58, 58, 58, 0.25);
+}
+
+#imagensatendimento {
+	display:block;
+	scale: 80%;
+}
+
+#imagensexame {
+	display:block;
+	scale: 80%;
+}
+
+#giftheoffice {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#imagemoutros {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 12px;
+}
+
+#botaovolta {
+	background: linear-gradient(rgb(0, 0, 100), rgb(5, 42, 209));
+	color:white;
+	padding: 1%;
+	border-radius: 12px;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+}
+
+footer {
+	font-size:90%;
+	font-style: italic;
+}
