@@ -17,12 +17,12 @@ header {
 }
 
 #imagensatendimento {
-	display:block;
+	display:flex;
 	scale: 80%;
 }
 
 #imagensexame {
-	display:block;
+	display:flex;
 	scale: 80%;
 }
 
